@@ -1,0 +1,6 @@
+pip install gunicorn
+pip list > requirements.txt
+.gitignore
+git init
+criar um repositorio no github
+sicronizar
